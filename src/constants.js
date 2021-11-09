@@ -1,0 +1,8 @@
+export const SIGNUP = 'SIGNUP'
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const AUTH_IS_READY = 'AUTH_IS_READY'
+export const IS_PENDING = 'IS_PENDING'
+export const ADDED_DOCUMENT = 'ADDED_DOCUMENT'
+export const ERROR = 'ERROR'
+export const DELETE_DOCUMENT = 'DELETE_DOCUMENT'
